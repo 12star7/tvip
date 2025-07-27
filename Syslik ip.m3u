@@ -3729,4 +3729,24 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="Религиозные",Муз Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
+#EXTINF:-1 group-title="Радио",Modern_Talking
+https://pub0202.101.ru:8443/stream/pro/aac/64/115?
+
+#EXTINF:-1 group-title="Радио",BoniM
+https://pub0202.101.ru:8443/stream/pro/aac/64/114?
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1943.png" tvg-name="ETV" group-title="спорт",ETV
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1943.png" tvg-name="Retro mys" group-title="МУЗЫКА",Retro mys
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIwIDE6NDQ6NTggUE0maGFzaF92YWx1ZT01ckpJMnVvOW1RcHltQVkzSVJwRU13PT0mdmFsaWRtaW51dGVzPTIwMDA=
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2078.png" tvg-name="Ростов папа" group-title="фильмы",Ростов папа
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3779.png" tvg-name="12" group-title="фильмы",12
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIwIDE6NDQ6NTggUE0maGFzaF92YWx1ZT01ckpJMnVvOW1RcHltQVkzSVJwRU13PT0mdmFsaWRtaW51dGVzPTIwMDA=
+
+
+
 
