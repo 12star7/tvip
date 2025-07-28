@@ -3729,10 +3729,10 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="Религиозные",Муз Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
-#EXTINF:-1 group-title="Радио",Modern_Talking
+#EXTINF:-1 tvg-logo="https://go.zvuk.com/imgs/2022/10/01/14/5608610/a149e0dbed0a180cea225b8783597a24b66dcbd2.jpg" tvg-id="no_epg_radio" group-title="Радио", Modern_Talking
 https://pub0202.101.ru:8443/stream/pro/aac/64/115?
 
-#EXTINF:-1 group-title="Радио",BoniM
+#EXTINF:-1 tvg-logo="https://videocdn.cdnpk.net/videos/1aaa0461-7f1d-4b07-8739-9b18d27fa71e/horizontal/previews/watermarked/large.mp4" tvg-id="no_epg_radio" group-title="Радио", Новое Радио
 https://pub0202.101.ru:8443/stream/pro/aac/64/114?
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1943.png" tvg-name="ETV" group-title="спорт",ETV
